@@ -1,8 +1,10 @@
-<center><h1>Tree-conomy</h1></center>
+<center><h1>Rent-conomy</h1></center>
 
 ## Abstract
 
-This whitepaper introduces "Tree-conomy," an innovative blockchain-based system designed to revolutionize the logistics and tracking of forest restoration projects. By integrating physical tree lifecycle stages—from seed collection to mature tree planting—with blockchain technology, Tree-conomy offers transparency, security, and immutability in tracking each tree's journey. Utilizing Non-Fungible Tokens (NFTs) for each developmental stage (Seed, Sapling, Tree), this system ensures that every participant, from volunteers to funders, can validate and engage with the process. The protocol also features a vesting mechanism with "Tree-conomy" tokens that incentivize long-term project commitment and success. By bridging the gap between physical assets and digital records, Tree-conomy not only enhances the measurability and verifiability required for carbon markets but also fosters greater community involvement and accountability in environmental restoration efforts.
+This whitepaper introduces "Rent-conomy," an innovative blockchain-based system designed to enable syndicated investment in rental property cash production. 
+
+By integrating physical tree lifecycle stages—from seed collection to mature tree planting—with blockchain technology, Tree-conomy offers transparency, security, and immutability in tracking each tree's journey. Utilizing Non-Fungible Tokens (NFTs) for each developmental stage (Seed, Sapling, Tree), this system ensures that every participant, from volunteers to funders, can validate and engage with the process. The protocol also features a vesting mechanism with "Tree-conomy" tokens that incentivize long-term project commitment and success. By bridging the gap between physical assets and digital records, Tree-conomy not only enhances the measurability and verifiability required for carbon markets but also fosters greater community involvement and accountability in environmental restoration efforts.
 
 ## Introduction 
 
